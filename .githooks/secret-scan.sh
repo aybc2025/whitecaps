@@ -18,7 +18,7 @@ while IFS= read -r f; do
     echo "❌ secret-scan: sensitive file staged: $f"; fail=1
   fi
 done <<< "$files"
-hits=$(echo "$diff" | grep -E '^\+[^+]' | grep -v 'secret-scan:allow' | grep -iE "$PATTERNS" | cut -c1-60)
+hits=$(echo "$diff" | grep -E '^\+[^+]' | grep -v 'secret-scan:allow' | grep -iE -e "$PATTERNS" | cut -c1-60)
 if [ -n "$hits" ]; then
   echo "❌ secret-scan: possible secret in added lines (truncated):"; echo "$hits"; fail=1
 fi
