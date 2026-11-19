@@ -18,6 +18,29 @@
         "https://www.whitecapsfc.com/news/vwfc-2026-r1g1-ko",
         "https://dailyhive.com/vancouver/whitecaps-path-2026-mls-cup-set"
       ]
+    },
+    {
+      "date": "2026-11-19",
+      "template": "poll",
+      "title": "מי יגיע אלינו?",
+      "body": "הלילה בשעה 8 בערב, באצטדיון של סיאטל, סיאטל סאונדרס משחקת נגד ריל סולט לייק. זה משחק אחד בלבד: מי שמפסידה, העונה שלה נגמרת. מי שמנצחת תגיע לונקובר לסיבוב הראשון, שמתחיל ביום ראשון 22.11 ב־BC Place.",
+      "question": "מי לדעתך תנצח הלילה ותשחק נגד וייטקאפס?",
+      "options": [
+        {
+          "id": "SEA",
+          "label": "סיאטל סאונדרס"
+        },
+        {
+          "id": "RSL",
+          "label": "ריל סולט לייק"
+        }
+      ],
+      "afterPickHe": "מחר בבוקר נגלה מי ניצחה!",
+      "sources": [
+        "https://www.mlssoccer.com/news/audi-2026-mls-cup-playoffs-field-set-and-wild-card-match-schedule-announced",
+        "https://www.mlssoccer.com/playoffs/2026/news/seattle-sounders-vs-real-salt-lake-5-biggest-storylines-for-western-conference-wild-card",
+        "https://www.rsl.com/news/the-basics-november-19-2026"
+      ]
     }
   ]
 }
