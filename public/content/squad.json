@@ -1,0 +1,28 @@
+{
+  "updated": "2026-11-18",
+  "sourceHe": "ההרכב שפתח בניצחון 5:1 על סיאטל, 1 בנובמבר",
+  "formation": "4-4-2",
+  "starters": [
+    { "num": 1,  "nameHe": "יוהיי טקאוקה", "nameEn": "Yohei Takaoka", "posHe": "שוער", "countryHe": "יפן", "x": 50, "y": 90, "goals": null, "factHe": "השוער הוא השחקן היחיד שמותר לו לתפוס את הכדור בידיים, אבל רק בתוך הרחבה שלו." },
+    { "num": 28, "nameHe": "טייט ג׳ונסון", "nameEn": "Tate Johnson", "posHe": "הגנה", "countryHe": "ארה״ב", "x": 14, "y": 70, "goals": null, "factHe": "שחקן הגנה עוצר את התוקפים של היריבה לפני שהם מגיעים לשער שלנו." },
+    { "num": 33, "nameHe": "טריסטן בלאקמון", "nameEn": "Tristan Blackmon", "posHe": "הגנה", "countryHe": "ארה״ב", "x": 38, "y": 75, "goals": null, "factHe": "בפברואר הוא חתם על חוזה חדש, אז הוא נשאר בוייטקאפס לעוד כמה שנים טובות." },
+    { "num": 2,  "nameHe": "מטיאס לבורדה", "nameEn": "Mathías Laborda", "posHe": "הגנה", "countryHe": "אורוגוואי", "x": 62, "y": 75, "goals": null, "factHe": "גם שחקני הגנה מבקיעים: הוא כבש שער בניצחון 5:1 על סיאטל." },
+    { "num": 18, "nameHe": "אדייר אוקמפו", "nameEn": "Édier Ocampo", "posHe": "הגנה", "countryHe": "קולומביה", "x": 86, "y": 70, "goals": null, "factHe": "נגד ריל סולט לייק בספטמבר, המסירה שלו פתחה את המהלך לשער של דיאבי." },
+    { "num": 77, "nameHe": "יאדלי דיאבי", "nameEn": "Yadaly Diaby", "posHe": "כנף", "countryHe": "גינאה", "x": 14, "y": 45, "goals": null, "factHe": "הגיע מצרפת בספטמבר. במשחק נגד ריל סולט לייק הוא גם הבקיע וגם בישל, לראשונה בוייטקאפס." },
+    { "num": 8,  "nameHe": "אוליבר לראז", "nameEn": "Oliver Larraz", "posHe": "קישור", "countryHe": "ארה״ב", "x": 38, "y": 51, "goals": null, "factHe": "נגד ריל סולט לייק הוא שלח כדור לתוך הרחבה, ובריאן וייט קפץ והבקיע ממנו." },
+    { "num": 23, "nameHe": "אלכסה צבטקוביץ׳", "nameEn": "Aleksa Cvetković", "posHe": "קישור", "countryHe": "סרביה", "x": 62, "y": 51, "goals": null, "factHe": "הצטרף לקבוצה בקיץ, והבקיע בניצחון 5:1 על סיאטל." },
+    { "num": 14, "nameHe": "ברונו קאיסדו", "nameEn": "Bruno Caicedo", "posHe": "כנף", "countryHe": "אקוודור", "x": 86, "y": 45, "goals": null, "factHe": "כנף רץ לאורך הקו בצד המגרש ומרים כדורים לחלוצים." },
+    { "num": 25, "nameHe": "ריאן גולד", "nameEn": "Ryan Gauld", "posHe": "קשר התקפי", "countryHe": "סקוטלנד", "x": 36, "y": 23, "goals": null, "factHe": "חזר מפציעה בזמן לפלייאוף. בניצחון 5:1 על סיאטל הוא הבקיע שער ובישל עוד שניים." },
+    { "num": 24, "nameHe": "בריאן וייט", "nameEn": "Brian White", "posHe": "חלוץ", "countryHe": "ארה״ב", "x": 64, "y": 15, "goals": 20, "factHe": "20 שערים העונה, הכי הרבה בקריירה שלו. הוא גם השחקן הראשון בוייטקאפס של ליגת MLS שהגיע ל־100 שערים." }
+  ],
+  "others": [
+    { "num": 13, "nameHe": "תומאס מילר", "nameEn": "Thomas Müller", "posHe": "קשר התקפי", "countryHe": "גרמניה", "goals": 9, "factHe": "זכה בגביע העולם עם גרמניה ב־2014. הוא חוזר מפציעה ברגל ומתאמן כדי להיות בכושר הכי טוב לפלייאוף." },
+    { "num": 32, "nameHe": "אייזק בומר", "nameEn": "Isaac Boehmer", "posHe": "שוער", "countryHe": "קנדה", "goals": null, "factHe": "שוער מחליף. אם השוער הראשון נפצע, הוא נכנס לשער." },
+    { "num": 4,  "nameHe": "רנקו וסלינוביץ׳", "nameEn": "Ranko Veselinović", "posHe": "הגנה", "countryHe": "סרביה", "goals": null, "factHe": "בלם: שחקן הגנה שעומד במרכז, ממש מול השער שלנו." },
+    { "num": 6,  "nameHe": "ראלף פריסו", "nameEn": "Ralph Priso", "posHe": "הגנה", "countryHe": "קנדה", "goals": null, "factHe": "אחד השחקנים הקנדים בסגל." },
+    { "num": 20, "nameHe": "אנדרס קובאס", "nameEn": "Andrés Cubas", "posHe": "קישור", "countryHe": "פרגוואי", "goals": null, "factHe": "קשר אחורי: הוא חוטף כדורים מהיריבה ומתחיל את ההתקפות שלנו." },
+    { "num": 11, "nameHe": "עמנואל סבי", "nameEn": "Emmanuel Sabbi", "posHe": "התקפה", "countryHe": "ארה״ב", "goals": null, "factHe": "שחקן התקפה מהיר שיכול לשחק בכמה עמדות." },
+    { "num": 7,  "nameHe": "שייח׳ סבאלי", "nameEn": "Cheikh Sabaly", "posHe": "התקפה", "countryHe": "סנגל", "goals": null, "factHe": "שחקן התקפה שנכנס לא פעם מהספסל כדי לרענן את ההתקפה." },
+    { "num": 19, "nameHe": "ראיין אלומי", "nameEn": "Rayan Elloumi", "posHe": "התקפה", "countryHe": "תוניסיה", "goals": null, "factHe": "חלוץ צעיר בסגל." }
+  ]
+}

@@ -1,0 +1,46 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html { -webkit-text-size-adjust: 100%; }
+  body {
+    @apply bg-harbour text-foam font-body text-body;
+    -webkit-tap-highlight-color: transparent;
+    overscroll-behavior-y: none;
+  }
+  button { -webkit-user-select: none; user-select: none; }
+  :focus-visible { outline: 3px solid #9DC4EC; outline-offset: 3px; }
+  p { text-wrap: pretty; }
+}
+
+@layer components {
+  .press { transition: transform 120ms cubic-bezier(0.23, 1, 0.32, 1); }
+  .press:active { transform: scale(0.97); }
+  .btn-primary {
+    @apply press block w-full rounded-full bg-harbour px-4 py-3 text-center text-body font-bold text-foam;
+    min-height: 48px;
+  }
+  .btn-soft {
+    @apply press rounded-full bg-chip px-4 py-3 text-center text-body font-medium text-harbour;
+    min-height: 48px;
+  }
+  .card { @apply rounded-card bg-foam p-4 text-harbour; }
+  .chip-label { @apply inline-block rounded-full bg-chip px-3 py-0.5 text-meta text-harbour; }
+}
+
+.tide-rise { transition: transform 600ms cubic-bezier(0.23, 1, 0.32, 1); }
+
+.sheet-content[data-state='open'] { animation: sheet-in 320ms cubic-bezier(0.32, 0.72, 0, 1); }
+.sheet-content[data-state='closed'] { animation: sheet-out 200ms cubic-bezier(0.23, 1, 0.32, 1); }
+.sheet-overlay[data-state='open'] { animation: fade-in 200ms ease-out; }
+.sheet-overlay[data-state='closed'] { animation: fade-out 160ms ease-out; }
+@keyframes sheet-in { from { transform: translateY(100%); } to { transform: translateY(0); } }
+@keyframes sheet-out { from { transform: translateY(0); } to { transform: translateY(100%); } }
+@keyframes fade-in { from { opacity: 0; } to { opacity: 1; } }
+@keyframes fade-out { from { opacity: 1; } to { opacity: 0; } }
+
+@media (prefers-reduced-motion: reduce) {
+  .tide-rise, .press { transition: none; }
+  .sheet-content[data-state], .sheet-overlay[data-state] { animation-duration: 1ms; }
+}
