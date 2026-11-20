@@ -1,15 +1,14 @@
 {
-  "updated": "2026-11-19",
+  "updated": "2026-11-20",
   "eliminated": false,
   "currentStage": "r1",
-  "opponent": null,
+  "opponent": "RSL",
   "candidates": [
-    { "id": "SEA", "nameHe": "סיאטל סאונדרס", "cityHe": "סיאטל" },
     { "id": "RSL", "nameHe": "ריל סולט לייק", "cityHe": "סולט לייק סיטי" }
   ],
   "games": [
     { "n": 1, "kickoff": "2026-11-22T18:30:00-07:00", "timeTbd": false, "home": true, "venueHe": "BC Place", "ifNeeded": false, "us": null, "them": null, "pensUs": null, "pensThem": null },
-    { "n": 2, "kickoff": "2026-11-27T20:00:00-07:00", "timeTbd": false, "home": false, "venueHe": null, "ifNeeded": false, "us": null, "them": null, "pensUs": null, "pensThem": null },
+    { "n": 2, "kickoff": "2026-11-27T20:00:00-07:00", "timeTbd": false, "home": false, "venueHe": "אמריקן פירסט פילד, סנדי (יוטה)", "ifNeeded": false, "us": null, "them": null, "pensUs": null, "pensThem": null },
     { "n": 3, "kickoff": "2026-12-02T19:00:00-07:00", "timeTbd": true, "home": true, "venueHe": "BC Place", "ifNeeded": true, "us": null, "them": null, "pensUs": null, "pensThem": null }
   ],
   "stages": [

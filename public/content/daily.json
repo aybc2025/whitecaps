@@ -41,6 +41,26 @@
         "https://www.mlssoccer.com/playoffs/2026/news/seattle-sounders-vs-real-salt-lake-5-biggest-storylines-for-western-conference-wild-card",
         "https://www.rsl.com/news/the-basics-november-19-2026"
       ]
+    },
+    {
+      "date": "2026-11-20",
+      "template": "fact",
+      "title": "ריל סולט לייק מגיעה לוונקובר!",
+      "body": "אתמול בלילה בסיאטל המשחק נגמר 1:1, ואז ריל סולט לייק ניצחה 4:2 בדו־קרב פנדלים. עכשיו היא היריבה של וייטקאפס בסיבוב הראשון, שמתחיל ביום ראשון ב־BC Place.",
+      "pollRef": "2026-11-19",
+      "pollAnswer": "RSL",
+      "facts": [
+        "המשחק בסיאטל נגמר 1:1. ריל סולט לייק ניצחה 4:2 בדו־קרב הפנדלים.",
+        "וייטקאפס ניצחו את ריל סולט לייק פעמיים בעונה הרגילה, ובאחד המשחקים 3:0.",
+        "משחק 1: יום ראשון 22.11 ב־BC Place בוונקובר. משחק 2: ב־27.11 בסנדי, יוטה.",
+        "מי שמנצחת שני משחקים עולה הלאה. אם צריך, משחק 3 יהיה ב־2.12 בוונקובר."
+      ],
+      "visual": "series",
+      "sources": [
+        "https://www.tsn.ca/soccer/mls/article/real-salt-lake-take-down-sounders-in-penalties-move-on-to-face-top-seeded-whitecaps/",
+        "https://www.soundersfc.com/news/recap-seattle-sounders-fall-to-real-salt-lake-in-penalty-kicks",
+        "https://bvmsports.com/2026/11/20/real-salt-lake-advance-to-play-whitecaps/"
+      ]
     }
   ]
 }
