@@ -61,6 +61,24 @@
         "https://www.soundersfc.com/news/recap-seattle-sounders-fall-to-real-salt-lake-in-penalty-kicks",
         "https://bvmsports.com/2026/11/20/real-salt-lake-advance-to-play-whitecaps/"
       ]
+    },
+    {
+      "date": "2026-11-21",
+      "template": "signMaker",
+      "title": "שלט לערב המשחק",
+      "body": "מחר ב־6:30 בערב מתחיל הסיבוב הראשון נגד ריל סולט לייק ב־BC Place. זה הזמן להכין שלט! ב־27,000 האוהדים הראשונים שיגיעו לאצטדיון מחכה דגל מיוחד.",
+      "phrases": [
+        "קדימה וייטקאפס!",
+        "הגל עולה!",
+        "הכחול מנצח!",
+        "ביחד עד הגביע!",
+        "וייטקאפס, אנחנו איתכם!",
+        "הערב זה שלנו!"
+      ],
+      "sources": [
+        "https://www.whitecapsfc.com/news/preview-caps-host-real-salt-lake-in-game-1",
+        "https://thethirdsub.ca/2026/11/20/match-preview-the-quest-for-mls-cup-begins-against-rsl/"
+      ]
     }
   ]
 }
