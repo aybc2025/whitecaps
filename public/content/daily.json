@@ -79,6 +79,25 @@
         "https://www.whitecapsfc.com/news/preview-caps-host-real-salt-lake-in-game-1",
         "https://thethirdsub.ca/2026/11/20/match-preview-the-quest-for-mls-cup-begins-against-rsl/"
       ]
+    },
+    {
+      "date": "2026-11-22",
+      "template": "matchDay",
+      "stage": "r1",
+      "gameN": 1,
+      "title": "היום משחקים! וייטקאפס נגד ריל סולט לייק",
+      "body": "הערב ב־6:30 מתחיל הסיבוב הראשון ב־BC Place. וייטקאפס סיימו במקום הראשון במערב עם 19 ניצחונות, שיא של המועדון. ריל סולט לייק הפסידה לנו פעמיים העונה, אבל בפלייאוף הכול מתחיל מחדש.",
+      "checklist": [
+        "ללבוש משהו כחול",
+        "להכין את השלט",
+        "לנחש מה תהיה התוצאה",
+        "ללחוץ על כפתור הגול כשנבקיע"
+      ],
+      "sources": [
+        "https://www.whitecapsfc.com/news/preview-caps-host-real-salt-lake-in-game-1",
+        "https://www.whitecapsfc.com/news/spectator-info-playoffsr1g12026-presented-by-telus-bmo-blg",
+        "https://www.mlssoccer.com/news/vancouver-whitecaps-vs-real-salt-lake-5-biggest-storylines-for-western-conference-round-one"
+      ]
     }
   ]
 }
