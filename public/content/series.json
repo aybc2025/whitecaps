@@ -1,20 +1,77 @@
 {
-  "updated": "2026-11-22",
+  "updated": "2026-11-23",
   "eliminated": false,
   "currentStage": "r1",
   "opponent": "RSL",
   "candidates": [
-    { "id": "RSL", "nameHe": "ריל סולט לייק", "cityHe": "סולט לייק סיטי" }
+    {
+      "id": "RSL",
+      "nameHe": "ריל סולט לייק",
+      "cityHe": "סולט לייק סיטי"
+    }
   ],
   "games": [
-    { "n": 1, "kickoff": "2026-11-22T18:30:00-07:00", "timeTbd": false, "home": true, "venueHe": "BC Place", "ifNeeded": false, "us": null, "them": null, "pensUs": null, "pensThem": null },
-    { "n": 2, "kickoff": "2026-11-27T20:00:00-07:00", "timeTbd": false, "home": false, "venueHe": "אמריקן פירסט פילד, סנדי (יוטה)", "ifNeeded": false, "us": null, "them": null, "pensUs": null, "pensThem": null },
-    { "n": 3, "kickoff": "2026-12-02T19:00:00-07:00", "timeTbd": true, "home": true, "venueHe": "BC Place", "ifNeeded": true, "us": null, "them": null, "pensUs": null, "pensThem": null }
+    {
+      "n": 1,
+      "kickoff": "2026-11-22T18:30:00-07:00",
+      "timeTbd": false,
+      "home": true,
+      "venueHe": "BC Place",
+      "ifNeeded": false,
+      "us": 2,
+      "them": 0,
+      "pensUs": null,
+      "pensThem": null
+    },
+    {
+      "n": 2,
+      "kickoff": "2026-11-27T20:00:00-07:00",
+      "timeTbd": false,
+      "home": false,
+      "venueHe": "אמריקן פירסט פילד, סנדי (יוטה)",
+      "ifNeeded": false,
+      "us": null,
+      "them": null,
+      "pensUs": null,
+      "pensThem": null
+    },
+    {
+      "n": 3,
+      "kickoff": "2026-12-02T19:00:00-07:00",
+      "timeTbd": true,
+      "home": true,
+      "venueHe": "BC Place",
+      "ifNeeded": true,
+      "us": null,
+      "them": null,
+      "pensUs": null,
+      "pensThem": null
+    }
   ],
   "stages": [
-    { "id": "r1", "nameHe": "סיבוב 1", "datesHe": "22.11–2.12", "formatHe": "הטוב מ־3: מי שמנצח 2 משחקים עולה" },
-    { "id": "csf", "nameHe": "חצי גמר המערב", "datesHe": "5–6.12", "formatHe": "משחק אחד — המנצחת עולה" },
-    { "id": "cf", "nameHe": "גמר המערב", "datesHe": "11–12.12", "formatHe": "משחק אחד — המנצחת עולה לגמר" },
-    { "id": "cup", "nameHe": "גמר MLS", "datesHe": "18.12", "formatHe": "משחק אחד על הגביע" }
+    {
+      "id": "r1",
+      "nameHe": "סיבוב 1",
+      "datesHe": "22.11–2.12",
+      "formatHe": "הטוב מ־3: מי שמנצח 2 משחקים עולה"
+    },
+    {
+      "id": "csf",
+      "nameHe": "חצי גמר המערב",
+      "datesHe": "5–6.12",
+      "formatHe": "משחק אחד — המנצחת עולה"
+    },
+    {
+      "id": "cf",
+      "nameHe": "גמר המערב",
+      "datesHe": "11–12.12",
+      "formatHe": "משחק אחד — המנצחת עולה לגמר"
+    },
+    {
+      "id": "cup",
+      "nameHe": "גמר MLS",
+      "datesHe": "18.12",
+      "formatHe": "משחק אחד על הגביע"
+    }
   ]
 }

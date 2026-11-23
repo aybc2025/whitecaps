@@ -98,6 +98,26 @@
         "https://www.whitecapsfc.com/news/spectator-info-playoffsr1g12026-presented-by-telus-bmo-blg",
         "https://www.mlssoccer.com/news/vancouver-whitecaps-vs-real-salt-lake-5-biggest-storylines-for-western-conference-round-one"
       ]
+    },
+    {
+      "date": "2026-11-23",
+      "template": "recap",
+      "stage": "r1",
+      "gameN": 1,
+      "title": "ניצחנו 2:0 במשחק הראשון!",
+      "us": 2,
+      "them": 0,
+      "pensUs": null,
+      "pensThem": null,
+      "opponentHe": "ריל סולט לייק",
+      "body": "30,193 אוהדים מילאו את BC Place, וייטקאפס ניצחו 2:0! אדייר אוקמפו הבקיע בדקה 44, וברונו קאיסדו הוסיף שער בכדור ראש בדקה 55. השוער יוהיי טקאוקה עצר 5 כדורים ולא נתן להם לשער. בריאן וייט יצא קצת לפני הסוף, ונקווה שהכול יהיה בסדר.",
+      "nextHe": "משחק 2: שישי 27.11 בשעה 20:00 בסנדי, יוטה. ניצחון נוסף וממשיכים הלאה!",
+      "sources": [
+        "https://www.mlssoccer.com/playoffs/2026/news/vancouver-whitecaps-open-playoffs-in-style-with-victory-over-real-salt-lake",
+        "https://www.tsn.ca/soccer/article/ocampo-caicedo-score-for-whitecaps-in-playoff-victory-over-real-salt-lake/",
+        "https://www.whitecapsfc.com/news/one-down-match-report-powered-by-sophos",
+        "https://langleyadvancetimes.com/2026/11/22/next-game-friday-in-utah/"
+      ]
     }
   ]
 }
