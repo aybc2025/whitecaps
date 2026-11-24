@@ -118,6 +118,69 @@
         "https://www.whitecapsfc.com/news/one-down-match-report-powered-by-sophos",
         "https://langleyadvancetimes.com/2026/11/22/next-game-friday-in-utah/"
       ]
+    },
+    {
+      "date": "2026-11-24",
+      "template": "quiz",
+      "title": "חידון: זוכרים את המשחק הראשון?",
+      "questions": [
+        {
+          "q": "כמה ניצחונות צריך כדי לעלות בסיבוב הראשון?",
+          "options": [
+            "ניצחון אחד",
+            "שני ניצחונות",
+            "שלושה ניצחונות"
+          ],
+          "answer": 1,
+          "explain": "הסיבוב הוא הטוב מ־3, אז מי שמנצחת ראשונה 2 משחקים עולה. אנחנו כבר עם ניצחון אחד!"
+        },
+        {
+          "q": "מי הבקיע את השער הראשון בניצחון 2:0?",
+          "options": [
+            "בריאן וייט",
+            "אדייר אוקמפו",
+            "ריאן גולד"
+          ],
+          "answer": 1,
+          "explain": "אדייר אוקמפו הבקיע בדקה 44."
+        },
+        {
+          "q": "איך ברונו קאיסדו הבקיע את השער השני?",
+          "options": [
+            "בכדור ראש",
+            "בבעיטה מהחצי",
+            "בפנדל"
+          ],
+          "answer": 0,
+          "explain": "הוא הבקיע בכדור ראש בדקה 55."
+        },
+        {
+          "q": "כמה כדורים עצר השוער יוהיי טקאוקה?",
+          "options": [
+            "2",
+            "5",
+            "9"
+          ],
+          "answer": 1,
+          "explain": "טקאוקה עצר 5 כדורים ולא נתן לריל סולט לייק להבקיע."
+        },
+        {
+          "q": "איפה משחקים את משחק 2, ביום שישי?",
+          "options": [
+            "ב־BC Place בוונקובר",
+            "בסנדי, יוטה",
+            "בסיאטל"
+          ],
+          "answer": 1,
+          "explain": "משחק 2 ביום שישי 27.11 בשעה 20:00 באמריקן פירסט פילד בסנדי, יוטה."
+        }
+      ],
+      "sources": [
+        "https://www.mlssoccer.com/playoffs/2026/news/vancouver-whitecaps-open-playoffs-in-style-with-victory-over-real-salt-lake",
+        "https://www.tsn.ca/soccer/article/ocampo-caicedo-score-for-whitecaps-in-playoff-victory-over-real-salt-lake/",
+        "https://www.whitecapsfc.com/news/one-down-match-report-powered-by-sophos",
+        "https://langleyadvancetimes.com/2026/11/22/next-game-friday-in-utah/"
+      ]
     }
   ]
 }
