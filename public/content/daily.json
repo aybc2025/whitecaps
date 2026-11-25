@@ -181,6 +181,25 @@
         "https://www.whitecapsfc.com/news/one-down-match-report-powered-by-sophos",
         "https://langleyadvancetimes.com/2026/11/22/next-game-friday-in-utah/"
       ]
+    },
+    {
+      "date": "2026-11-25",
+      "template": "fact",
+      "title": "מוכנים למשחק 2 ביוטה?",
+      "body": "אנחנו מובילים 1:0 בסדרה, וניצחון אחד נוסף שולח אותנו לחצי גמר המערב. ביום שישי ב־20:00 משחקים בסנדי, יוטה. ראלף פריסו אומר שריל סולט לייק תשחק קשה יותר, כי אין לה מה להפסיד.",
+      "facts": [
+        "הסדרה היא הטוב מ־3: מי שמנצחת 2 משחקים עולה. אחרי משחק 1 אנחנו מובילים 1:0.",
+        "משחק 2 ביום שישי 27.11 בשעה 20:00 באמריקן פירסט פילד בסנדי, יוטה.",
+        "בריאן וייט יצא במשחק 1 עם מתיחות קלה בשריר. עדיין לא ידוע אם ישחק ביום שישי.",
+        "ריל סולט לייק ניצחה בפנדלים בסיאטל ביום חמישי שעבר, עם פחות מ־72 שעות מנוחה."
+      ],
+      "visual": "series",
+      "sources": [
+        "https://aftn.ca/report-and-reaction-vancouver-whitecaps-real-salt-lake-2026-mls-playoffs/",
+        "https://www.rotowire.com/soccer/headlines/brian-white-injury-forced-off-sunday-548204",
+        "https://langleyadvancetimes.com/2026/11/22/next-game-friday-in-utah/",
+        "https://www.whitecapsfc.com/news/one-down-match-report-powered-by-sophos"
+      ]
     }
   ]
 }
