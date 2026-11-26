@@ -200,6 +200,25 @@
         "https://langleyadvancetimes.com/2026/11/22/next-game-friday-in-utah/",
         "https://www.whitecapsfc.com/news/one-down-match-report-powered-by-sophos"
       ]
+    },
+    {
+      "date": "2026-11-26",
+      "template": "signMaker",
+      "title": "שלט למשחק 2 ביוטה",
+      "body": "מחר ב־20:00 משחקים נגד ריל סולט לייק בסנדי, יוטה. ניצחון אחד ואנחנו בחצי גמר המערב! הערב מכינים שלט, ומחר מעודדים מהבית.",
+      "phrases": [
+        "קדימה וייטקאפס!",
+        "הגל עולה גם ביוטה!",
+        "עוד ניצחון אחד!",
+        "הכחול מנצח!",
+        "ביחד עד הגביע!",
+        "וייטקאפס, אנחנו איתכם!"
+      ],
+      "sources": [
+        "https://www.mlssoccer.com/playoffs/2026/news/vancouver-whitecaps-eye-playoff-sweep-of-real-salt-lake",
+        "https://www.mlssoccer.com/playoffs/2026/news/real-salt-lake-vs-vancouver-whitecaps-how-to-watch-stream-western-conference-round-one-game-2",
+        "https://www.fox.com/sports/soccer/mls/watch-real-salt-lake-vs-vancouver-whitecaps-fc-nov-27-2026"
+      ]
     }
   ]
 }
