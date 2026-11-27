@@ -219,6 +219,25 @@
         "https://www.mlssoccer.com/playoffs/2026/news/real-salt-lake-vs-vancouver-whitecaps-how-to-watch-stream-western-conference-round-one-game-2",
         "https://www.fox.com/sports/soccer/mls/watch-real-salt-lake-vs-vancouver-whitecaps-fc-nov-27-2026"
       ]
+    },
+    {
+      "date": "2026-11-27",
+      "template": "matchDay",
+      "stage": "r1",
+      "gameN": 2,
+      "title": "היום משחקים! משחק 2 ביוטה",
+      "body": "הערב ב־20:00 וייטקאפס משחקים נגד ריל סולט לייק בסנדי, יוטה. אנחנו מובילים 1:0 בסדרה, וניצחון אחד נוסף שולח אותנו לחצי גמר המערב. בואו נעודד מהבית!",
+      "checklist": [
+        "ללבוש משהו כחול",
+        "להציג את השלט מאתמול",
+        "לנחש מה תהיה התוצאה",
+        "ללחוץ על כפתור הגול כשנבקיע"
+      ],
+      "sources": [
+        "https://www.mlssoccer.com/playoffs/2026/news/vancouver-whitecaps-eye-playoff-sweep-of-real-salt-lake",
+        "https://www.mlssoccer.com/playoffs/2026/news/real-salt-lake-vs-vancouver-whitecaps-how-to-watch-stream-western-conference-round-one-game-2",
+        "https://langleyadvancetimes.com/2026/11/22/next-game-friday-in-utah/"
+      ]
     }
   ]
 }
