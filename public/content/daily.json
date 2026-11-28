@@ -238,6 +238,24 @@
         "https://www.mlssoccer.com/playoffs/2026/news/real-salt-lake-vs-vancouver-whitecaps-how-to-watch-stream-western-conference-round-one-game-2",
         "https://langleyadvancetimes.com/2026/11/22/next-game-friday-in-utah/"
       ]
+    },
+    {
+      "date": "2026-11-28",
+      "template": "recap",
+      "stage": "r1",
+      "gameN": 2,
+      "title": "ניצחנו 1:0 ועולים לחצי גמר המערב!",
+      "us": 1,
+      "them": 0,
+      "pensUs": null,
+      "pensThem": null,
+      "opponentHe": "ריל סולט לייק",
+      "body": "עמנואל סבי הבקיע בדקה 58 אחרי מסירה של ברונו קאיסדו וטייט ג׳ונסון, וזה היה השער היחיד. ברגע האחרון מטיאס לבורדה זינק וגרש כדור מקו השער! יוהיי טקאוקה שמר על שער נקי, שיא חדש למועדון. ניצחנו 2:0 בסדרה!",
+      "nextHe": "חצי גמר המערב: משחק אחד ב־BC Place בסוף השבוע של 5–6.12. היריבה והשעה יפורסמו בקרוב.",
+      "sources": [
+        "https://www.mlssoccer.com/news/vancouver-whitecaps-complete-round-one-sweep-of-real-salt-lake",
+        "https://www.whitecapsfc.com/news/two-down-match-report-powered-by-sophos"
+      ]
     }
   ]
 }
